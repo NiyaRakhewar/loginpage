@@ -114,15 +114,15 @@ input:focus {
 }
 
 .signIn-btn {
-  padding: 0.5rem 0.75rem;
+  padding: 0.7rem 0.75rem;
   width: 80%;
   background: #4caf50;
   color: white;
   border: none;
-  border-radius: 0.5rem;
+  border-radius: 40px;
   cursor: pointer;
   margin: 1rem 0;
-  font-size: large;
+  font-size: medium;
 }
 
 button:hover {
