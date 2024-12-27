@@ -73,7 +73,7 @@ function App() {
           <img className="login-tree" src={tree} alt="tree logo" />
           <InputField type="email" name="email" placeholder="Email" />
           <InputField type="password" name="password" placeholder="Password" />
-          <button className="signIn-btn" type="submit">
+          <button className="signIn-btn"  type="submit">
             Sign In
           </button>
           <div className="extra-links">

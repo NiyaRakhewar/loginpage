@@ -122,6 +122,7 @@ input:focus {
   border-radius: 0.5rem;
   cursor: pointer;
   margin: 1rem 0;
+  font-size: large;
 }
 
 button:hover {
